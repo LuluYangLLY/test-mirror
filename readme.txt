@@ -1,1 +1,1 @@
-This is a new repo in master for git learning
+This is a test repo in master for git learning

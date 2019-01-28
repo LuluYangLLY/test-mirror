@@ -2,3 +2,4 @@ This is a repo for git learning
 hot fix--test merge ff
 git test SHA
 git test merge three in master
+git test merge three in master

@@ -1,0 +1,34 @@
+<html>
+<head>
+<style>
+div {border: 1px solid black; margin: 1em;}
+.zerotest div {border: 0;}
+.nonetest div {border: none;}
+
+div.setwidth {border-width: 3px;}
+div.setstyle {border-style: dashed;}
+
+</style>
+</head>
+<body>
+
+<div class="zerotest">
+<div class="setwidth">
+"Border: 0" and "border-width: 3px"
+</div>
+<div class="setstyle">
+"Border: 0" and "border-style: dashed"
+</div>
+</div>
+
+<div class="nonetest">
+<div class="setwidth">
+"Border: none" and "border-width: 3px"
+</div>
+<div class="setstyle">
+"Border: none" and "border-style: dashed"
+</div>
+</div>
+
+</body>
+</html>
